@@ -2,6 +2,8 @@
 ## Responsive Web Design Project 1
 This is my tribute page submission as part of FreeCodeCamp's curriculum for a Responsive Web Design Certification.
 
+## My Tribute to Mayra
+
 ## Criteria:
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
